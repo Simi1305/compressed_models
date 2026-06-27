@@ -1,0 +1,20 @@
+# Datasets
+data_files/
+*.tar.gz
+
+# Compressed model outputs
+compressed_models/
+*.npz
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
